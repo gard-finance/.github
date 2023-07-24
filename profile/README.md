@@ -5,11 +5,3 @@ Gard Finance is a Starknet DeFi protocol to interact with L1 DeFi protocols in a
 # Architecture
 
 ![telegram-cloud-photo-size-4-5902152167517699657-y](https://github.com/gard-finance/.github/assets/66029824/ffb45f4a-8e23-4637-bd58-21d722031cfe)
-
-# Revenue
-
-Gard Finance will likely take a fee on deposit but not defined yet and rewarded to who.
-
-# Governance
-
-At this stage it is not decided if a governance will exist, who will be able to create new pools, chose the fees, etc...
